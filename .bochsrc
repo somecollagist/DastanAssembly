@@ -1,0 +1,6 @@
+floppya: 1_44=Dastan.img, status=inserted
+boot: floppy
+memory: guest=32, host=32
+magic_break: enabled=1
+display_library: x, options = "gui_debug"
+cpuid: vendor_string=GenuineIntel
